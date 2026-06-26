@@ -137,9 +137,16 @@ cd frontend && npm run dev
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-> Coming soon
+![Auto Software Development Team Platform Dashboard](assets/demo.png)
+
+### 🎬 How it works
+1. **Create a Project** — Enter your app idea in plain English
+2. **Agents Activate** — 14 AI agents run in a structured pipeline
+3. **Watch Live** — Real-time log streaming shows each agent's progress
+4. **Get Code** — Browse & edit generated files in the built-in file explorer
+5. **Export** — Download the complete project as a ZIP
 
 ---
 
